@@ -3,10 +3,10 @@
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/charlesdeluvio-jtmwD4i4v1U-unsplash.jpg" alt="logo" width="400" height="auto" />
   <h1>"So, What to Watch Next?" 
   
-  Creating Movie Recommendation Engines</h1>
+  Creating Movie Recommendation Engines with Streamlit WebApp Deployment</h1>
   
   <p>
-    Creating recommendation engines based on genre, similar users and a hybrid of the two
+    Creating recommendation engines based on genre, similar users and a hybrid of the two and then deployin them on a Netflix clone WebApp
   </p>
   
   
