@@ -70,25 +70,37 @@ purchase - generating revenue and platform affinity.
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_1.png" width="800" height="800" alt="screenshot" />
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_2.png" width="800" height="550" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_3.png" width="800" height="550" alt="screenshot" /> 
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_4.png" width="800" height="800" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_5.png" width="800" height="800" alt="screenshot" /> 
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_6.png" width="800" height="800" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Movie_Recommender_System/blob/main/Images/Screenshot_7.png" width="800" height="800" alt="screenshot" /> 
